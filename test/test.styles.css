@@ -5,3 +5,24 @@
 #mocha h1 a {
     pointer-events: none;
 }
+
+html, body{
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+header{background-color: gray;
+}
+
+h2{background-color: darkgray;
+    color: darkslategrey;
+    
+}
+
+h3{background-color: darkgray;
+    color: darkslategrey;
+}
